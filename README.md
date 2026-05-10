@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Shreyash 👋
 
-<!--
-**shreyash-bhosale/shreyash-bhosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI/ML Student @ NIAT ADYPU  
+🤖 Aspiring AI/ML Engineer  
+🌍 GSoC Aspirant  
+💻 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning: Machine Learning, Python, DSA  
+- 🎯 Goal: Crack GSoC & become AI Engineer  
+- ⚡ Fun fact: I believe consistency beats talent  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Python, C++  
+- 📚 Learning: Machine Learning, Deep Learning  
+- 🔧 Tools: Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+- 🔹 Coming Soon... (Updating regularly)
+---
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shreyash-bhosale&show_icons=true&theme=tokyonight)---
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=shreyash-bhosale)
+---
+## 🌐 Connect With Me
+- LinkedIn: (Add later)
+- Portfolio: (Add later)
+---
+⭐️ From [shreyash-bhosale](https://github.com/shreyash-bhosale)
+
