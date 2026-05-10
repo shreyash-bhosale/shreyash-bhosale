@@ -6,7 +6,6 @@
 💻 Passionate about building real-world projects  
 
 ---
-
 ## 🚀 About Me
 - 🌱 Currently learning: Machine Learning, Python, DSA  
 - 🎯 Goal: Crack GSoC & become AI Engineer  
