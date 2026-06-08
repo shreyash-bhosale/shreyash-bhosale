@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, C++  
+- 💻 Languages: Python 
 - 📚 Learning: Machine Learning, Deep Learning  
 - 🔧 Tools: Git, GitHub, VS Code  
 
