@@ -29,7 +29,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=shreyash-bhosale)
 ---
 ## 🌐 Connect With Me
-- LinkedIn: (Add later)
+- LinkedIn: linkedin.com/in/shreyash-bhosale-3b395041a
 - Portfolio: (Add later)
 ---
 ⭐️ From [shreyash-bhosale](https://github.com/shreyash-bhosale)
