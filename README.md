@@ -1,87 +1,141 @@
-# Hi, I'm Shreyash Bhosale 👋
+<div align="center">
+
+# Hi 👋, I'm Shreyash Bhosale
 
 ### AI & Machine Learning Undergraduate | Python Developer | Computer Vision
 
-I'm an AI & Machine Learning undergraduate building production-oriented AI systems using **Python**, **Computer Vision**, and **Machine Learning**.
+Building practical AI systems using **Python**, **Computer Vision**, and **Machine Learning**.
 
-My focus is on creating practical AI applications that solve real-world problems—from sign language recognition to multimodal AI assistants.
+Currently developing real-world AI applications while pursuing a B.Tech in Artificial Intelligence & Machine Learning.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyash-bhosale-3b395041a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/shreyash-bhosale)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashbhosale592@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 Currently Building
+# 🚀 About Me
 
-### 🤖 NEXUS AI
-An intelligent desktop AI assistant that understands on-screen context using computer vision.
+🎓 **B.Tech Artificial Intelligence & Machine Learning**  
+Ajeenkya D Y Patil University (2026–2030)
 
-**Current Progress**
+💡 Interested in
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Multimodal AI
+- Large Language Models
+- AI Systems Engineering
+
+🌱 Currently Learning
+
+- Deep Learning
+- PyTorch
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+
+🎯 Long-Term Goals
+
+- Build production-quality AI systems
+- Contribute to open-source AI projects
+- Participate in Google Summer of Code (GSoC)
+- Pursue AI research and engineering opportunities
+
+---
+
+# 💻 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+SQL (Basic)
+
+---
+
+### Artificial Intelligence & Machine Learning
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+Machine Learning
+
+Computer Vision
+
+Large Language Models (LLMs)
+
+---
+
+### Development Tools
+
+Git
+
+GitHub
+
+VS Code
+
+macOS
+
+Python Virtual Environments
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 NEXUS AI
+
+**Intelligent Desktop AI Assistant**
+
+NEXUS AI is a multimodal desktop assistant that aims to understand screen context using Computer Vision and AI.
+
+### Current Progress
+
 - ✅ Screen Capture Pipeline
 - 🚧 OCR Integration
 - 🚧 Context Engine
 - 🚧 Vision Processing
 - 🚧 LLM Integration
 
-Repository:
+🔗 Repository
+
 https://github.com/shreyash-bhosale/nexus-ai
 
 ---
 
-## ⭐ Featured Project
+## ✋ SignSense AI
 
-### ✋ SignSense AI
+**Real-Time American Sign Language Recognition**
 
-An AI-powered American Sign Language recognition system built using MediaPipe, OpenCV, and Scikit-learn.
+Built using **Python**, **OpenCV**, **MediaPipe**, and **Scikit-learn**.
 
 ### Highlights
 
 - 🎯 99.02% Classification Accuracy
-- 🖼️ 78,000 Images Processed
+- 📷 78,000 Images Processed
 - 📊 60,347 Valid Landmark Samples
 - ✋ 26 ASL Alphabet Gestures
-- 📍 63 Hand Landmark Features
-- 🎥 Real-Time Webcam Inference
+- 🧠 Random Forest Classifier
+- ⚡ Real-Time Webcam Inference
 
-Repository:
+🔗 Repository
+
 https://github.com/shreyash-bhosale/SignSense-AI
-
----
-
-# 🛠 Tech Stack
-
-### Programming
-
-- Python
-- SQL (Basic)
-
-### AI & Machine Learning
-
-- Computer Vision
-- Machine Learning
-- OpenCV
-- MediaPipe
-- Scikit-learn
-- NumPy
-
-### Development
-
-- Git
-- GitHub
-- VS Code
-- macOS
-
-### Currently Learning
-
-- Deep Learning
-- PyTorch
-- AI Agents
-- LangChain
-- Retrieval-Augmented Generation (RAG)
 
 ---
 
 # 📜 Certifications
 
-- AI Foundations — OpenAI
-- AI Fundamentals — Google
+- AI Foundations
+- AI Fundamentals
 - Responsible AI: Applying AI Principles with Google Cloud
 - Introduction to Responsible AI
 - Introduction to Large Language Models
@@ -90,38 +144,57 @@ https://github.com/shreyash-bhosale/SignSense-AI
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash-bhosale&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shreyash-bhosale)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyash-bhosale&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash-bhosale&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash-bhosale&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shreyash-bhosale&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🎯 2026 Goals
 
-- Build production-quality AI systems
-- Complete NEXUS AI
-- Contribute to open-source AI projects
-- Deepen expertise in Computer Vision and LLMs
-- Prepare for Google Summer of Code (GSoC)
+- 🚀 Complete NEXUS AI
+- 🧠 Build Deep Learning Projects
+- 🤖 Learn AI Agents and RAG Systems
+- 🌍 Contribute to Open Source
+- 💼 Secure an AI/ML Internship
+- 📚 Continuously improve through hands-on engineering
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
 📍 Mumbai, Maharashtra, India
 
-📧 shreyashbhosale592@gmail.com
+📧 Email
+
+shreyashbhosale592@gmail.com
 
 💼 LinkedIn
+
 https://www.linkedin.com/in/shreyash-bhosale-3b395041a/
 
 🐙 GitHub
+
 https://github.com/shreyash-bhosale
 
 ---
 
-> *"Building AI systems one project at a time."*
+<div align="center">
+
+> **"Building AI systems one project at a time."**
+
+⭐ Thanks for visiting my profile!
+
+</div>
